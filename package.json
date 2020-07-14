@@ -1,0 +1,40 @@
+{
+  "name": "evobot",
+  "version": "0.4.0",
+  "description": "Discord music bot built with discord.js",
+  "main": "index.js",
+  "author": "Erit Islami <eritislami@gmail.com>",
+  "private": true,
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "booru": "^2.3.1",
+    "canvas": "^2.6.1",
+    "canvas-constructor": "^3.2.0",
+    "dateformat": "^3.0.3",
+    "discord-economy": "^1.2.2",
+    "discord.js": "^12.0.1",
+    "formatDate": "^1.0.0",
+    "fs": "0.0.1-security",
+    "genius-lyrics": "^3.0.0",
+    "imageapi.js": "^1.0.4",
+    "moment": "^2.27.0",
+    "ms": "^2.1.2",
+    "nekos.life": "^2.0.7",
+    "node-fetch": "^2.6.0",
+    "quick": "0.0.6",
+    "quick.db": "^7.1.1",
+    "random-puppy": "^1.1.0",
+    "simple-youtube-api": "^5.1.1",
+    "snekfetch": "^4.0.4",
+    "sqlite3": "^5.0.0",
+    "urban.js": "^2.4.3",
+    "ytdl-core": "^3.1.0",
+    "ytdl-core-discord": "amishshah/ytdl-core-discord"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "optionalDependencies": {
+    "ffmpeg-static": "^4.2.3"
+  }
+}
