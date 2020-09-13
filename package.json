@@ -20,7 +20,7 @@
     "moment": "^2.27.0",
     "ms": "^2.1.2",
     "nekos.life": "^2.0.7",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "quick": "0.0.6",
     "quick.db": "^7.1.1",
     "random-puppy": "^1.1.0",
