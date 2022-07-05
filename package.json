@@ -6,7 +6,7 @@
   "author": "Erit Islami <eritislami@gmail.com>",
   "private": true,
   "dependencies": {
-    "@discordjs/opus": "^0.3.2",
+    "@discordjs/opus": "^0.8.0",
     "booru": "^2.3.1",
     "canvas": "^2.6.1",
     "canvas-constructor": "^3.2.0",
